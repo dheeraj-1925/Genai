@@ -19,7 +19,7 @@
 
 <br/>
 
-[🚀 Quick Start](#-quick-start) · [📐 Architecture](#-architecture) · [✨ Features](#-features) · [📊 Dashboard](#-dashboard-preview) · [🛠 Tech Stack](#-tech-stack) · [📁 Structure](#-project-structure)
+[🎬 Demo Video](#-demo-video) · [🚀 Quick Start](#-quick-start) · [📐 Architecture](#-architecture) · [✨ Features](#-features) · [📊 Dashboard](#-dashboard-preview) · [🛠 Tech Stack](#-tech-stack) · [📁 Structure](#-project-structure)
 
 ---
 
@@ -34,6 +34,20 @@ Traditional attendance systems are **manual, error-prone, and context-blind**. T
 - 💡 **AI-driven teaching suggestions** grounded in observable data
 - 👥 **Per-student reflective analytics** that respect privacy
 - 🔒 **100% offline** — no data ever leaves your machine
+
+---
+
+## 🎬 Demo Video
+
+Watch the complete demonstration of the system in action:
+
+<div align="center">
+
+[![Watch Demo Video](https://img.shields.io/badge/▶%EF%B8%8F_Watch_Live_Demo-Click_to_View_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://files.catbox.moe/49ffc2.mp4)
+
+🔗 **Direct Video URL:** [https://files.catbox.moe/49ffc2.mp4](https://files.catbox.moe/49ffc2.mp4)
+
+</div>
 
 ---
 
