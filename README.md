@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Multimodal+Attendance+%26+Engagement+Agent;AI-Powered+Classroom+Intelligence;Privacy-Preserving+%7C+Offline+%7C+Real-Time" alt="Typing SVG" />
+# 🎓 Multimodal Attendance & Engagement Agent
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Multimodal+Attendance+%26+Engagement+Agent;AI-Powered+Classroom+Intelligence;Privacy-Preserving+%7C+Offline+%7C+Real-Time" alt="Multimodal Attendance & Engagement Agent" />
 
 <br/>
 
